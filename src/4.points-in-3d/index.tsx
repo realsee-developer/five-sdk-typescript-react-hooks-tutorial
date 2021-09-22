@@ -10,8 +10,8 @@ import Stack from "@mui/material/Stack";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import Paper from "@mui/material/Paper";
-import DirectionsWalkIcon from '@mui/icons-material/DirectionsWalk';
-import ViewInArIcon from '@mui/icons-material/ViewInAr';
+import DirectionsWalkIcon from "@mui/icons-material/DirectionsWalk";
+import ViewInArIcon from "@mui/icons-material/ViewInAr";
 
 // work.json 的数据 URL
 const workURL = "https://vrlab-public.ljcdn.com/release/static/image/release/five/work-sample/4e18246c206ba031abf00ee5028920e1/work.json";

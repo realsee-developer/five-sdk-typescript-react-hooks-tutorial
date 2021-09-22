@@ -7,13 +7,13 @@ import IconButton from "@mui/material/IconButton";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import Paper from "@mui/material/Paper";
-import DirectionsWalkIcon from '@mui/icons-material/DirectionsWalk';
-import ViewInArIcon from '@mui/icons-material/ViewInAr';
-import FlipCameraAndroidIcon from '@mui/icons-material/FlipCameraAndroid';
-import PauseIcon from '@mui/icons-material/Pause';
-import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
-import StopIcon from '@mui/icons-material/Stop';
-import PlayArrowIcon from '@mui/icons-material/PlayArrow';
+import DirectionsWalkIcon from "@mui/icons-material/DirectionsWalk";
+import ViewInArIcon from "@mui/icons-material/ViewInAr";
+import FlipCameraAndroidIcon from "@mui/icons-material/FlipCameraAndroid";
+import PauseIcon from "@mui/icons-material/Pause";
+import FiberManualRecordIcon from "@mui/icons-material/FiberManualRecord";
+import StopIcon from "@mui/icons-material/Stop";
+import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import { Recorder } from "./recorder";
 
 // work.json 的数据 URL
