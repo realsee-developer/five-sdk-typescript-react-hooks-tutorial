@@ -23,7 +23,6 @@ class Recorder {
    */
   record(state: State) {
     if (this.records === null) return;
-    console.log(state);
     this.records.push({
       state: Object.assign({}, state),
       time: Date.now() - this.startTime
